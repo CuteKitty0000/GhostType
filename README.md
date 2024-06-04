@@ -1,4 +1,4 @@
-# KeyGhost
+# GhostType
 
 KeyGhost is a user-friendly application that automates typing with a human-like speed. It allows users to effortlessly type out text or code snippets with varying intervals between keystrokes, simulating natural typing behavior.
 
