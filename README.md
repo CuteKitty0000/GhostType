@@ -2,7 +2,7 @@
 
 KeyGhost is a user-friendly application that automates typing with a human-like speed. It allows users to effortlessly type out text or code snippets with varying intervals between keystrokes, simulating natural typing behavior.
 
-![XL8UQtyN_400x400](https://github.com/CuteKitty0000/GhostType/assets/144705877/1dac21b0-7616-4fe8-9f1d-996fee428da7)
+<img src="https://github.com/CuteKitty0000/GhostType/assets/144705877/1dac21b0-7616-4fe8-9f1d-996fee428da7" alt="KeyGhost Logo" width="200">
 
 ## Features
 - Simulates human-like typing speed.
