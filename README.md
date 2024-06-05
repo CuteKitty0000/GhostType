@@ -8,8 +8,6 @@ GhostType is a versatile application designed to automate typing tasks on variou
 ## Exploited Vulnerability:
 1. **Detection Evasion**: Amypo monitors typing speed and patterns, detecting automated inputs. GhostType bypasses this detection by employing random typing speeds and mimicking human typing behavior using the keyboard library.
 
-![GhostType Logo](https://github.com/CuteKitty0000/GhostType/assets/144705877/1dac21b0-7616-4fe8-9f1d-996fee428da7)
-
 ## Features
 - Simulates human-like typing speed to evade detection.
 - Listens for a keyword trigger to initiate typing.
